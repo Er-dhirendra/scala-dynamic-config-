@@ -1,4 +1,3 @@
-Sure! Here is a `README.md` file that details the setup and usage of your Scala application with MongoDB, including Docker and Docker Compose configuration.
 
 ---
 
@@ -189,11 +188,3 @@ object DynamicConfigReader extends App {
   MongoUtils.client.close()
 }
 ```
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this `README.md` file according to your specific project needs or additional features you may want to include.
